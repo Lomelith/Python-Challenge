@@ -1,7 +1,0 @@
-Financial Analysis 
---------------------------
-Total Months: 86
-Total: $22564198
-Average Change:: $-5224.86
-Greatest Increase in Progits: Mar-13 ($1141840)
-Greatest Decrease in Progits: Dec-10 ($-1194133)
